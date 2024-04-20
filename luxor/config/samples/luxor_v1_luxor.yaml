@@ -1,0 +1,9 @@
+apiVersion: luxor.luxor.test/v1
+kind: Luxor
+metadata:
+  labels:
+    app.kubernetes.io/name: luxor
+    app.kubernetes.io/managed-by: kustomize
+  name: luxor-sample
+spec:
+  # TODO(user): Add fields here

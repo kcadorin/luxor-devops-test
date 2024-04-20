@@ -1,0 +1,16 @@
+{
+    "hosts": [
+        {
+            "host": "localhost",
+            "port": 8000
+        },
+        {
+            "host": "example.com",
+            "port": 80
+        },
+        {
+            "host": "example.net",
+            "port": 80
+        }
+    ]
+}

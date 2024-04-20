@@ -1,0 +1,4 @@
+## Append samples of your project ##
+resources:
+- luxor_v1_luxor.yaml
+#+kubebuilder:scaffold:manifestskustomizesamples

@@ -1,0 +1,8 @@
+apiVersion: example.com/v1
+kind: HTTPServerConfig
+metadata:
+  name: my-http-server-config
+spec:
+  hosts:
+    - image: kcadorin/luxor2-http-server:1.0.0
+      replicas: 3
